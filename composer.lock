@@ -570,11 +570,11 @@
             "time": "2018-11-15T13:49:08+00:00"
         },
         {
-            "name": "junaidbhura/advanced-custom-fields-pro",
-            "version": "5.7.2",
+            "name": "wp-premium/advanced-custom-fields-pro",
+            "version": "5.7.8",
             "dist": {
                 "type": "zip",
-                "url": "https://www.advancedcustomfields.com",
+                "url": "https://github.com/wp-premium/advanced-custom-fields-pro/archive/master.zip",
                 "reference": null,
                 "shasum": null
             },
